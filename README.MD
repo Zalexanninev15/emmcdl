@@ -4,4 +4,4 @@
 ```bash
 wget https://github.com/Zalexanninev15/emmcdl/archive/master.zip && unzip master.zip && rm master.zip && cd emmcdl-master && aclocal && autoconf && automake --add-missing && ./configure && make && sudo cp emmcdl /usr/bin/emmcdl && cd .. && rm -rf emmcdl-master
 ```
-#### More informations in file [INFO](https://github.com/Zalexanninev15/emmcdl/blob/master/INFO)
+#### How to use? - [INFO](https://github.com/Zalexanninev15/emmcdl/blob/master/INFO)
