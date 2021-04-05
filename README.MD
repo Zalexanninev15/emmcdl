@@ -1,6 +1,6 @@
 # emmcdl
 
-[![](https://img.shields.io/badge/platform-Linux-orange.svg)](https://github.com/Zalexanninev15/PFT-Linux)
+[![](https://img.shields.io/badge/platform-Linux-orange.svg)](https://github.com/Zalexanninev15/emmcdl)
 [![](https://img.shields.io/badge/license-GPLv3-green.svg)](LICENSE)
 
 ## Download & build & install (need a "g++" compiler)
