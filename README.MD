@@ -1,6 +1,7 @@
 # emmcdl
 
 [![](https://img.shields.io/badge/OS-Linux-orange?logo=linux)](https://github.com/Zalexanninev15/emmcdl)
+[![](https://img.shields.io/github/last-commit/Zalexanninev15/emmcdl)](https://github.com/Zalexanninev15/emmcdl/commits/master)
 [![](https://img.shields.io/badge/license-GPLv3-green.svg)](LICENSE)
 [![](https://img.shields.io/badge/donate-QIWI-FF8C00.svg)](https://qiwi.com/n/ZALEXANNINEV15)
 [![](https://img.shields.io/badge/donate-YooMoney-8B3FFD.svg)](https://yoomoney.ru/to/410015106319420)
