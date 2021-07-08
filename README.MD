@@ -1,6 +1,6 @@
 # emmcdl
 
-[![](https://img.shields.io/badge/OS-Linux-orange?logo=linux)](https://github.com/Zalexanninev15/emmcdl)
+[![](https://img.shields.io/badge/OS-Linux-ligthgreen?logo=linux)](https://github.com/Zalexanninev15/emmcdl)
 [![](https://img.shields.io/badge/release-v2.10-blue)](https://github.com/Zalexanninev15/emmcdl)
 [![](https://img.shields.io/github/last-commit/Zalexanninev15/emmcdl)](https://github.com/Zalexanninev15/emmcdl/commits/master)
 [![](https://img.shields.io/github/stars/Zalexanninev15/emmcdl.svg)](https://github.com/Zalexanninev15/emmcdl/stargazers)
