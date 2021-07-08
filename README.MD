@@ -11,7 +11,7 @@
 
 ## Description
 
-Console utility for working with device partitions based on the Qualcomm processor for Linux.
+Console utility for working with device partitions based on the Qualcomm processor for Linux
 
 ## Download & build & install (required a g++ compiler)
 ```bash
